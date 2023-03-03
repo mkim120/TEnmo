@@ -4,12 +4,8 @@ TEnmo is an online payment service for transferring "TE bucks" between friends.
 
 ## Use cases
 
-1. As a user of the system, I need to be able to register myself with a username and password.
-   1. A new registered user starts with an initial balance of 1,000 TE Bucks.
-   2. The ability to register has been provided in your starter code.
-2. As a user of the system, I need to be able to log in using my registered username and password.
-   1. Logging in returns an Authentication Token. I need to include this token with all my subsequent interactions with the system outside of registering and logging in.
-   2. The ability to log in has been provided in your starter code.
+1. As a user of the system, I need to be able to register myself with a username and password. A new registered user starts with an initial balance of 1,000 TE Bucks.
+2. As a user of the system, I need to be able to log in using my registered username and password. Logging in returns an Authentication Token. I need to include this token with all my subsequent interactions with the system outside of registering and logging in.
 3. As an authenticated user of the system, I need to be able to see my Account Balance.
 4. As an authenticated user of the system, I need to be able to *send* a transfer of a specific amount of TE Bucks to a registered user.
    1. I should be able to choose from a list of users to send TE Bucks to.
