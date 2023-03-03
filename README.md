@@ -1,6 +1,6 @@
 # TEnmo
 
-TEnmo is an online payment service for transferring "TE bucks" between friends. 
+TEnmo is an online payment service for transferring "TE Bucks" between friends. 
 
 ### Use cases
 
@@ -141,7 +141,7 @@ Stores the accounts of users in the system.
 | --------------- | ------------------------------------------------------------------ |
 | `account_id`    | Unique identifier of the account                                   |
 | `user_id`       | Foreign key to the `users` table; identifies user who owns account |
-| `balance`       | The amount of TE bucks currently in the account                    |
+| `balance`       | The amount of TE Bucks currently in the account                    |
 
 ### `transfer_type` table
 
@@ -178,7 +178,7 @@ There are three statuses of transfers:
 
 ### `transfer` table
 
-Stores the transfers of TE bucks.
+Stores the transfers of TE Bucks.
 
 | Field                | Description                                                                                     |
 | -------------------- | ----------------------------------------------------------------------------------------------- |
