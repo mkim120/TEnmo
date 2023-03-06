@@ -89,8 +89,8 @@ Transfer Details
 Users
 ID          Name
 -------------------------------------------
-313         Bernice
-54          Larry
+313         Moses
+54          Stephen
 ---------
 
 Enter ID of user you are requesting from (0 to cancel):
